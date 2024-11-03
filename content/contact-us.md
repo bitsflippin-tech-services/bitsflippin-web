@@ -1,5 +1,5 @@
 +++
-title = 'contact us'
+title = 'Contact us today!'
 draft = false
 +++
 
