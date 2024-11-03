@@ -8,4 +8,4 @@ We offer a 30-day money-back guarantee on all course Memberships. If you are not
 
 Or Contact us on WhatsApp.
 
-[![Chat on WhatsApp.](/images/WhatsAppButtonGreenLarge.svg)](https://wa.me/918866015116)
+[![Chat on WhatsApp.](/images/WhatsAppButtonGreenSmall)](https://wa.me/918866015116)
