@@ -1,6 +1,6 @@
 baseURL = 'https://www.bitsflippin.xyz/'
 languageCode = 'en-us'
-title = 'Bitsflippin Tech Services - macOS Repair/Software support and Cloud & Tech Workshops'
+title = 'Bitsflippin Tech Services - Expert macOS Repair, Cloud Solutions, and Tech Workshops'
 theme = 'ananke'
 
 enableGitInfo = true
