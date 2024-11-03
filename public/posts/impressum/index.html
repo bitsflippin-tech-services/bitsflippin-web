@@ -18,8 +18,9 @@ Phone: &#43;886 601 5116 (Monday-Friday, 10:00 AM - 5:00 PM IST)
 
 
 
+ 
 
-    
+  
 
 
 
@@ -151,12 +152,13 @@ Email: support@bitsflippin.xyz Phone: &#43;886 601 5116 (Monday-Friday, 10:00 AM
 
 
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
-    <script>
-        function onSubmit() {
-            document.getElementById("myForm").submit()
-        }
-    </script>
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+
+  <script>
+   function onSubmit(token) {
+     document.getElementById("myForm").submit();
+   }
+ </script>
 
 <form id='myForm' class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/mleogvek" method="POST" role="form">
 
@@ -172,7 +174,7 @@ Email: support@bitsflippin.xyz Phone: &#43;886 601 5116 (Monday-Friday, 10:00 AM
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="message">Message</label>
     <textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" aria-labelledby="message"></textarea>
 
-    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black g-recaptcha" data-sitekey="6LfFFHQqAAAAAEkno9NzDEn7j-87cfqOmzuqbW84" type="submit" value="Send" /> 
+    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black g-recaptcha" data-sitekey="6LfFFHQqAAAAAEkno9NzDEn7j-87cfqOmzuqbW84" data-action='submit' type="submit" value="Send" /> 
 
 </form>
 <p><strong>Address:</strong></p>
