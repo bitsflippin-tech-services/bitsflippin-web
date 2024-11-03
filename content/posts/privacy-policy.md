@@ -5,7 +5,7 @@ draft = false
 
 **Privacy Policy**
 
-**Effective Date: [Date]**
+**Effective Date: [3 November, 2024]**
 
 Bitsflippin Tech Services (“we,” “us,” or “our”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you interact with our website, services, and products.
 
@@ -53,5 +53,3 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 **Contact Us**
 
 If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at support@bitsflippin.xyz.
-
-**Please note that this is a basic Privacy Policy template. It's recommended to consult with a legal professional to ensure compliance with specific regulations and to tailor the policy to your business practices.**

@@ -2,6 +2,17 @@ baseURL = 'https://www.bitsflippin.xyz/'
 languageCode = 'en-us'
 title = 'Bitsflippin Tech Services - By Arya'
 theme = 'ananke'
+
 enableGitInfo = true
+
 [frontmatter]
 lastmod = [':git', ':fileModTime']
+
+# Load static images from a dedicated folder. 
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
