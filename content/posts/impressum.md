@@ -12,11 +12,14 @@ Expert macOS Repair, Cloud Solutions, and Tech Workshops
 **Contact:**
 
 * Email: support@bitsflippin.xyz
-* Phone: +886 601 5115 (Monday-Friday, 10:00 AM - 5:00 PM IST)
+* Phone: +886 601 5116 (Monday-Friday, 10:00 AM - 5:00 PM IST)
+
+
+[![Chat on WhatsApp.](/images/WhatsAppButtonGreenSmall.svg)](https://wa.me/918866015116)
 
 **Address:**
 
-Chennai, India
+Hyderabad/Chennai/Puducherry, India
 
 **Disclaimer:**
 
@@ -33,3 +36,5 @@ Bitsflippin Tech Services takes the protection of your data very seriously. Plea
 **Dispute Resolution:**
 
 In the event of any disputes arising out of or in connection with the use of this website, the laws of India will apply.
+
+
