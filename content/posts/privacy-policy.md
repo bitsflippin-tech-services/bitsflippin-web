@@ -1,6 +1,6 @@
 +++
 title = 'Privacy Policy'
-draft = true
+draft = false
 +++
 
 **Privacy Policy**
