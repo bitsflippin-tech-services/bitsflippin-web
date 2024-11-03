@@ -2,37 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bitsflippin Tech Services</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.bitsflippin.xyz/</link>
     <description>Recent content on Bitsflippin Tech Services</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.bitsflippin.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cloud Crash course - Learn AWS Cloud with live examples.</title>
-      <link>http://localhost:1313/posts/get-started-with-aws-essentials/</link>
+      <title>About Us - Business Information</title>
+      <link>https://www.bitsflippin.xyz/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/get-started-with-aws-essentials/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/BitsFlippin-AWS-CrashCourse-Essentials.PNG&#34; alt=&#34;AWS Cloud Essentials&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-us-to-get-started-today&#34;&gt;Contact us to get started today!&lt;/h2&gt;</description>
+      <guid>https://www.bitsflippin.xyz/impressum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Bitsflippin Tech Services&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-do&#34;&gt;What we do?&lt;/h2&gt;&#xA;&lt;p&gt;Expert macOS Repair, Cloud Solutions, and Tech Workshops&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:support@bitsflippin.xyz&#34;&gt;support@bitsflippin.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: +91 88660-15116 (Monday-Friday, 10:00 AM - 5:00 PM IST)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;https://www.bitsflippin.xyz/images/WhatsAppButtonGreenSmall.svg&#34; alt=&#34;Chat on WhatsApp.&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hyderabad/Chennai/Puducherry, India&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The information on this website is provided for informational purposes only and does not constitute professional advice. We reserve the right to change the content of this website at any time without notice.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Copyright:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The content of this website is protected by copyright. Reproduction or distribution of any content without prior written permission from Bitsflippin Tech Services is prohibited.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Impressum - Business Information</title>
-      <link>http://localhost:1313/posts/impressum/</link>
+      <title>Cloud Crash course - Learn AWS Cloud with live examples.</title>
+      <link>https://www.bitsflippin.xyz/posts/get-started-with-aws-essentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/impressum/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Bitsflippin Tech Services&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-do&#34;&gt;What we do?&lt;/h2&gt;&#xA;&lt;p&gt;Expert macOS Repair, Cloud Solutions, and Tech Workshops&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:support@bitsflippin.xyz&#34;&gt;support@bitsflippin.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: +91 88660-15116 (Monday-Friday, 10:00 AM - 5:00 PM IST)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/WhatsAppButtonGreenSmall.svg&#34; alt=&#34;Chat on WhatsApp.&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA; &#xA;&lt;form id=&#39;myForm&#39; class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/mleogvek&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA; &#xA;   &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;   &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA; &#xA;   &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;   &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;   &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;     An email address is required.&#xA;   &lt;/div&gt;&#xA; &#xA;   &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;   &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;   &lt;div class=&#34;g-recaptcha&#34; data-sitekey=&#34;6LfFFHQqAAAAAEkno9NzDEn7j-87cfqOmzuqbW84&#34;&gt;&lt;/div&gt;&#xA;   &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xA; &#xA;&lt;/form&gt;&#xA; &#xA;&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://www.bitsflippin.xyz/posts/get-started-with-aws-essentials/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;https://www.bitsflippin.xyz/images/BitsFlippin-AWS-CrashCourse-Essentials.PNG&#34; alt=&#34;AWS Cloud Essentials&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-us-to-get-started-today&#34;&gt;Contact us to get started today!&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Contact us today!</title>
+      <link>https://www.bitsflippin.xyz/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.bitsflippin.xyz/contact-us/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:support@bitsflippin.xyz&#34;&gt;support@bitsflippin.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: +91 88660-15116 (Monday-Friday, 10:00 AM - 5:00 PM IST)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA; &#xA; &lt;script src=&#34;https://www.google.com/recaptcha/api.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;  &lt;script&gt;&#xA;   function onSubmit(token) {&#xA;     document.getElementById(&#34;myForm&#34;).submit();&#xA;   }&#xA; &lt;/script&gt;&#xA;&#xA;&lt;form id=&#39;myForm&#39; class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://formspree.io/f/mleogvek&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xA; &#xA;   &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xA;   &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xA; &#xA;   &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xA;   &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xA;   &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xA;     An email address is required.&#xA;   &lt;/div&gt;&#xA; &#xA;   &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xA;   &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xA;   &lt;button class=&#34;g-recaptcha db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; &#xA;        data-sitekey=&#34;6LfFFHQqAAAAAEkno9NzDEn7j-87cfqOmzuqbW84&#34; &#xA;        data-callback=&#39;onSubmit&#39; &#xA;        data-action=&#39;submit&#39;&gt;Submit&lt;/button&gt;&#xA; &#xA;&lt;/form&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/posts/privacy-policy/</link>
+      <link>https://www.bitsflippin.xyz/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/privacy-policy/</guid>
+      <guid>https://www.bitsflippin.xyz/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Privacy Policy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date: [3 November, 2024]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bitsflippin Tech Services (“we,” “us,” or “our”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you interact with our website, services, and products.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Information We Collect&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We may collect the following types of personal information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personal Information:&lt;/strong&gt; Name, email address, phone number, and other contact information.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage Data:&lt;/strong&gt; Information about how you use our services, such as your IP address, browser type, device information, and browsing history.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Payment Information:&lt;/strong&gt; Credit card or other payment information when you make a purchase.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;How We Use Your Information&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Refunds Policy</title>
-      <link>http://localhost:1313/posts/refunds-policy/</link>
+      <link>https://www.bitsflippin.xyz/refunds-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/refunds-policy/</guid>
+      <guid>https://www.bitsflippin.xyz/refunds-policy/</guid>
       <description>&lt;h2 id=&#34;note&#34;&gt;Note:&lt;/h2&gt;&#xA;&lt;p&gt;If you have any queries regaring our course and refunds policy feel free to get in touch with us via Email or WhatsApp.&lt;/p&gt;&#xA;&lt;h3 id=&#34;to-keep-it-simple-our-terms-are-as-follows&#34;&gt;To keep it simple our terms are as follows.&lt;/h3&gt;&#xA;&lt;p&gt;We offer a 30-day money-back guarantee on all course Memberships. If you are not satisfied with your membership, you may request a refund within 30 days of the original purchase date by emailing &lt;a href=&#34;mailto:support@bitsflippin.xyz&#34;&gt;support@bitsflippin.xyz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Or Contact us on WhatsApp.&lt;/p&gt;</description>
     </item>
   </channel>

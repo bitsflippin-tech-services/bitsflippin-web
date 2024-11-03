@@ -2,38 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bitsflippin Tech Services</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.bitsflippin.xyz/posts/</link>
     <description>Recent content in Posts on Bitsflippin Tech Services</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.bitsflippin.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud Crash course - Learn AWS Cloud with live examples.</title>
-      <link>http://localhost:1313/posts/get-started-with-aws-essentials/</link>
+      <link>https://www.bitsflippin.xyz/posts/get-started-with-aws-essentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/get-started-with-aws-essentials/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/BitsFlippin-AWS-CrashCourse-Essentials.PNG&#34; alt=&#34;AWS Cloud Essentials&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    <item>
-      <title>Impressum - Business Information</title>
-      <link>http://localhost:1313/posts/impressum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/impressum/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Bitsflippin Tech Services&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-we-do&#34;&gt;What we do?&lt;/h2&gt;&#xA;&lt;p&gt;Expert macOS Repair, Cloud Solutions, and Tech Workshops&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:support@bitsflippin.xyz&#34;&gt;support@bitsflippin.xyz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: +886 601 5116 (Monday-Friday, 10:00 AM - 5:00 PM IST)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/WhatsAppButtonGreenSmall.svg&#34; alt=&#34;Chat on WhatsApp.&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hyderabad/Chennai/Puducherry, India&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The information on this website is provided for informational purposes only and does not constitute professional advice. We reserve the right to change the content of this website at any time without notice.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Copyright:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The content of this website is protected by copyright. Reproduction or distribution of any content without prior written permission from Bitsflippin Tech Services is prohibited.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/posts/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/privacy-policy/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Privacy Policy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date: [3 November, 2024]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bitsflippin Tech Services (“we,” “us,” or “our”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you interact with our website, services, and products.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Information We Collect&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We may collect the following types of personal information:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personal Information:&lt;/strong&gt; Name, email address, phone number, and other contact information.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage Data:&lt;/strong&gt; Information about how you use our services, such as your IP address, browser type, device information, and browsing history.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Payment Information:&lt;/strong&gt; Credit card or other payment information when you make a purchase.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;How We Use Your Information&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Refunds Policy</title>
-      <link>http://localhost:1313/posts/refunds-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/refunds-policy/</guid>
-      <description>&lt;h2 id=&#34;note&#34;&gt;Note:&lt;/h2&gt;&#xA;&lt;p&gt;If you have any queries regaring our course and refunds policy feel free to get in touch with us via Email or WhatsApp.&lt;/p&gt;&#xA;&lt;h3 id=&#34;to-keep-it-simple-our-terms-are-as-follows&#34;&gt;To keep it simple our terms are as follows.&lt;/h3&gt;&#xA;&lt;p&gt;We offer a 30-day money-back guarantee on all course Memberships. If you are not satisfied with your membership, you may request a refund within 30 days of the original purchase date by emailing &lt;a href=&#34;mailto:support@bitsflippin.xyz&#34;&gt;support@bitsflippin.xyz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Or Contact us on WhatsApp.&lt;/p&gt;</description>
+      <guid>https://www.bitsflippin.xyz/posts/get-started-with-aws-essentials/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wa.me/918866015116&#34;&gt;&lt;img src=&#34;https://www.bitsflippin.xyz/images/BitsFlippin-AWS-CrashCourse-Essentials.PNG&#34; alt=&#34;AWS Cloud Essentials&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-us-to-get-started-today&#34;&gt;Contact us to get started today!&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
