@@ -3,6 +3,14 @@
 {{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
 {{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
  
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+
+  <script>
+   function onSubmit(token) {
+     document.getElementById("myForm").submit();
+   }
+ </script>
+
 <form id='myForm' class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
  
    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">{{ i18n "yourName" }}</label>
