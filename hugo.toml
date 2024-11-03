@@ -2,3 +2,6 @@ baseURL = 'https://www.bitsflippin.xyz/'
 languageCode = 'en-us'
 title = 'Bitsflippin Tech Services - By Arya'
 theme = 'ananke'
+enableGitInfo = true
+[frontmatter]
+lastmod = [':git', ':fileModTime']
