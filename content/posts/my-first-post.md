@@ -1,7 +1,12 @@
 +++
-date = '2024-11-03T11:12:48+05:30'
 draft = true
 title = 'My First Post'
 +++
 
-Hello World!
+# Hello World!
+
+## Welcome to Bitsflippin
+
+We are excited to launch this website to make our services and workshops more accesible.
+
+A lot of new things are coming soon - Goodies, Merch, New Training plans, and more.
