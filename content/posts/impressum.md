@@ -1,5 +1,5 @@
 +++
-title = 'Impressum - Business Information'
+title = 'About Us - Business Information'
 draft = false
 +++
 
@@ -17,7 +17,6 @@ Expert macOS Repair, Cloud Solutions, and Tech Workshops
 
 [![Chat on WhatsApp.](/images/WhatsAppButtonGreenSmall.svg)](https://wa.me/918866015116)
 
-{{< formspree action="https://formspree.io/f/mleogvek" >}}
 
 **Address:**
 
