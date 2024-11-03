@@ -3,9 +3,11 @@ title = 'Impressum - Business Information'
 draft = false
 +++
 
-## Impressum
-
 **Bitsflippin Tech Services**
+
+## What we do? 
+
+Expert macOS Repair, Cloud Solutions, and Tech Workshops
 
 **Contact:**
 
