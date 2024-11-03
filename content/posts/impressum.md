@@ -12,7 +12,7 @@ Expert macOS Repair, Cloud Solutions, and Tech Workshops
 **Contact:**
 
 * Email: support@bitsflippin.xyz
-* Phone: +886 601 5116 (Monday-Friday, 10:00 AM - 5:00 PM IST)
+* Phone: +91 88660-15116 (Monday-Friday, 10:00 AM - 5:00 PM IST)
 
 
 [![Chat on WhatsApp.](/images/WhatsAppButtonGreenSmall.svg)](https://wa.me/918866015116)
