@@ -33,5 +33,3 @@ Bitsflippin Tech Services takes the protection of your data very seriously. Plea
 **Dispute Resolution:**
 
 In the event of any disputes arising out of or in connection with the use of this website, the laws of India will apply.
-
-
