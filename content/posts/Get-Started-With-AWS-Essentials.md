@@ -4,7 +4,7 @@ draft = false
 +++
 
 
-[![AWS Cloud Essentials](/static/images/BitsFlippin-AWS-CrashCourse-Essentials.PNG)]
+![AWS Cloud Essentials](/images/BitsFlippin-AWS-CrashCourse-Essentials.PNG)
 
 ## Contact us to get started today!
 
